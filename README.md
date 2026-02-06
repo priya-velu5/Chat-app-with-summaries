@@ -1,5 +1,7 @@
 # Chat App with AI Summaries
 
+Course project: [CS 230](https://sites.uci.edu/cs230/)
+
 A **real-time multi-topic group chat application** with AI-powered conversation summaries. Demonstrates full-stack development, distributed messaging, and AI integration.
 
 ## Overview
