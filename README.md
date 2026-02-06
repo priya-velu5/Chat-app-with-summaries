@@ -8,7 +8,7 @@ Users can join multiple chat rooms and exchange messages in real time. As conver
 
 ## Architecture
 
-![Architecture diagram](../Architecture.png)
+![Architecture diagram](Architecture.png)
 
 ## Tech Stack
 
